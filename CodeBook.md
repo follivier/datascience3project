@@ -1,14 +1,14 @@
-**************************************************
-*                SOURCE OF THE DATA              *
-**************************************************
+
+*      SOURCE OF THE DATA
+
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
 
-**************************************************
-*      TRANSFORMATIONS MADE ON THE VARIABLES     *
-**************************************************
+*      TRANSFORMATIONS MADE ON THE VARIABLES  
+
+
 
 - removed all the variables not related to the mean of the standard deviation from the data
 
@@ -18,9 +18,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 
 
-**************************************************
-*             FEATURES OF THE VARIABLES          *
-**************************************************
+
+*             FEATURES OF THE VARIABLES          
+
 
 
 
@@ -43,9 +43,9 @@ The data in this dataset is actually the mean of each measurement, aggregated by
 
 
 
-**************************************************
-*              LIST OF THE VARIABLES             *
-**************************************************
+
+*              LIST OF THE VARIABLES             
+
 
  [1] "volunteer_ID"     	# a number ranging from 1 to 30 identifying the subject of the experiment             
  [2] "activity"         	# descriptive activity: LAYING, SITTING, STANDING,
